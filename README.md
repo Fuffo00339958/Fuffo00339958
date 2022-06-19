@@ -1,0 +1,2 @@
+- 👋dall'ultimo report somministrazioni-vaccini-latest.csv del 19.06.2002, i dati mi sembrano incompleti, mancano un sacco di Regioni dopo la Sicilia: Toscana, Umbria, Valle d'Aosta, Veneto: non mio scarica tutto, o mancano proprio? La domenica non si lavora?
+- Anche qualche settimana fa, mancavano i dati ad es. domenica scorsa 12/6 mancava il Veneto 
